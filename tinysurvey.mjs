@@ -32,7 +32,7 @@ app.use('/displayresults', displayresults);
 let surveyManager = new SurveyManager();
 let surveysLoaded = false;
 
-export {surveysLoaded };
+export { surveysLoaded };
 
 surveyManager.init().then(() => { 
   surveysLoaded = true; 
