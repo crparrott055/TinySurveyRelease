@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/8ca44969-440b-40a6-ab91-2c16bfb56815/resourceGroups/tiny-survey-crparrott055_group/providers/Microsoft.Web/sites/tiny-survey-crparrott055",
+    "appService.deploySubpath": "."
+}
